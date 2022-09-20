@@ -1,1 +1,0 @@
-Lesson 5 Pointers_arrays_string
